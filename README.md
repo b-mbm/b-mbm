@@ -1,6 +1,6 @@
 ## Bradley Miles
 
-I work on AI agents that act in markets, and on how to keep them safe as they improve. Avalon Labs.
+I work on AI agents that act in markets, and on how to keep them safe as they improve. I also explore the creation of new markets based around trustless cash flow with [Avalon](https://avalon.trade).
 
 ### Research
 
@@ -11,4 +11,4 @@ All papers: [bradleymiles.com/research](https://www.bradleymiles.com/research/) 
 
 ### Links
 
-[bradleymiles.com](https://www.bradleymiles.com) · [ORCID](https://orcid.org/0009-0005-8141-6650)
+[bradleymiles.com](https://www.bradleymiles.com) · [avalon.trade](https://avalon.trade) · [ORCID](https://orcid.org/0009-0005-8141-6650)
